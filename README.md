@@ -1,6 +1,6 @@
 # Fetching NFTS
 
-This program is only to query all NFT collections under the address through the owner address
+This program is only to query all NFT collections under the address through the wallet address
 
 ## Next.js + Tailwind CSS Example
 
